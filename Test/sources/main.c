@@ -9,5 +9,7 @@ int main(void)
     i++;
     i++;
 
-	return i;
+    printf(i);
+
+	return 0;
 }
